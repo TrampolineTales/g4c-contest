@@ -43,5 +43,3 @@
 * Bitcoins
 * Investments
 * Stocks
-
-* YNAB
