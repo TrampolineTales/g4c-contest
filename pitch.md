@@ -19,7 +19,14 @@
 
 * Settings that choose what is displayed
 * Achievements
-	* Pay off rent 50 times
+	* Pay off rent X times
+	* Open/have a checking account
+	* Open/have a savings account
+	* Save X% of your goal
+	* Reach level X
+	* Visit Money Monsters for X days
+	* Make an Investment
+	* Put $1 into your savings
 * Level
 	* XP is based on % of initial amount saved
 * Visit streak
@@ -43,5 +50,3 @@
 * Bitcoins
 * Investments
 * Stocks
-
-* YNAB
