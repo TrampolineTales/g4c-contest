@@ -36,6 +36,28 @@
 * Inviting/Adding friends
 	* XP for referring friends
 
+## Gameplay
+
+* Customizable weapons, avatar, and dwelling
+* Varying scenery outside windows (maybe depending on season?)
+
+## App Intro Flow
+
+* Intro Animation/graphic
+* Enter user name
+* Enter name of town/accrued money representation
+* Brief intermittent explanations/setting narrative
+* Enter fist/at least one monster/bill
+* Enter first/at least one chunk of money (savings, checking, cash, gift cards)
+* Prompt to share?
+* End intro and release user to do as they will (add more monsters, add more money, check out achievements and items)
+
+## Art
+
+* Castle Crashers
+* Adventure Time
+* Tap Titans
+
 ## Notes
 
 * Monsters with dollar amounts as health bars
